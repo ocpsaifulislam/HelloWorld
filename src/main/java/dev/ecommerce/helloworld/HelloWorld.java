@@ -3,7 +3,7 @@ package dev.ecommerce.helloworld;
 public class HelloWorld {
 
     // ✅ Instance Variable
-    private final String message;
+    private String message;
 
     // ✅ Constructor to initialize the instance variable
     public HelloWorld(String msg) {
