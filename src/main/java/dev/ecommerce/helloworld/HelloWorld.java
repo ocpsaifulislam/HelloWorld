@@ -23,7 +23,7 @@ public class HelloWorld {
         hello.displayMessage();
 
         // Loop from 0 to 19
-        for (int i = 0; i < 21; i++) {
+        for (int i = 0; i < 20; i++) {
             System.out.println(i);
         }
     }
