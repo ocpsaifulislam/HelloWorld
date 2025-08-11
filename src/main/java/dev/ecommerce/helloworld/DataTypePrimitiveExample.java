@@ -1,6 +1,6 @@
 package dev.ecommerce.helloworld;
 
-public class DataTypeExample {
+public class DataTypePrimitiveExample {
 
     public static void main(String args[]) {
 
